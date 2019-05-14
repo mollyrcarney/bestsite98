@@ -1,11 +1,11 @@
-#About this space!
+# About this space!
 
-##Begin paragraph
+## Begin paragraph
 Learning things about github. 
 Don't forget to put an empty space between writing chunks to make a new paragraph.
 
-###List testing
--Numero uno
+### List testing
+ -Numero uno
 -deux
   *three
 
